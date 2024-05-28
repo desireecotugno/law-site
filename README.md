@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <!-- Last Published: Tue May 28 2024 19:04:27 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="www.thelawofficeiv.com" data-wf-page="64936409b22277a670d4621a" data-wf-site="649362999143e2cad3ff7b95" lang="en">
+<html data-wf-domain="www.thelawofficeiv.com" data-wf-page="664dfde720c6ed64220a9788" data-wf-site="649362999143e2cad3ff7b95" lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>The Law Office of Angela Zinn and Heather Cutlip / FAQ&#x27;s</title>
-    <meta content="At The Law Office of Angela Zinn, we understand that navigating issues related to family law can be complex and emotionally challenging. To help guide our clients through the legal process, we have compiled a list of frequently asked questions below." name="description"/>
-    <meta content="The Law Office of Angela Zinn and Heather Cutlip / FAQ&#x27;s" property="og:title"/>
-    <meta content="At The Law Office of Angela Zinn, we understand that navigating issues related to family law can be complex and emotionally challenging. To help guide our clients through the legal process, we have compiled a list of frequently asked questions below." property="og:description"/>
-    <meta content="The Law Office of Angela Zinn and Heather Cutlip / FAQ&#x27;s" property="twitter:title"/>
-    <meta content="At The Law Office of Angela Zinn, we understand that navigating issues related to family law can be complex and emotionally challenging. To help guide our clients through the legal process, we have compiled a list of frequently asked questions below." property="twitter:description"/>
+    <title>The Law Office of Angela Zinn and Heather Cutlip / Home</title>
+    <meta content="The Law Office Of Angela Zinn and Heather Cutlip / Trusted Attorneys serving the Imperial Valley specializing in Family Law and Criminal Law / Located in El Centro, CA" name="description"/>
+    <meta content="The Law Office of Angela Zinn and Heather Cutlip / Home" property="og:title"/>
+    <meta content="The Law Office Of Angela Zinn and Heather Cutlip / Trusted Attorneys serving the Imperial Valley specializing in Family Law and Criminal Law / Located in El Centro, CA" property="og:description"/>
+    <meta content="The Law Office of Angela Zinn and Heather Cutlip / Home" property="twitter:title"/>
+    <meta content="The Law Office Of Angela Zinn and Heather Cutlip / Trusted Attorneys serving the Imperial Valley specializing in Family Law and Criminal Law / Located in El Centro, CA" property="twitter:description"/>
     <meta property="og:type" content="website"/>
     <meta content="summary_large_image" name="twitter:card"/>
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -34,7 +34,7 @@
     </script>
     <link href="https://assets-global.website-files.com/649362999143e2cad3ff7b95/66562279a9c2b0fb65a28a7a_logo_law_small_png.png" rel="shortcut icon" type="image/x-icon"/>
     <link href="https://assets-global.website-files.com/649362999143e2cad3ff7b95/6656229f25cc0125bd07cd0b_logo_law_mediumpng.png" rel="apple-touch-icon"/>
-    <link href="https://www.thelawofficeiv.com/faqs" rel="canonical"/>
+    <link href="https://www.thelawofficeiv.com/" rel="canonical"/>
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-1LE5NZTLSR"></script>
     <script type="text/javascript">
     window.dataLayer = window.dataLayer || [];
@@ -46,7 +46,7 @@
     gtag('config', 'G-1LE5NZTLSR');
     </script>
 </head>
-<body class="body-4">
+<body class="body-6">
     <section class="section-24">
         <div class="columns-8 w-row">
             <div class="column-24 w-col w-col-1">
@@ -62,7 +62,7 @@
         </div>
     </section>
     <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="uui-navbar08_component-2 w-nav">
-        <a href="/" class="w-inline-block">
+        <a href="/" aria-current="page" class="w-inline-block w--current">
             <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype.png" loading="lazy" width="Auto" sizes="100vw" alt="Untitled UI logotext" srcset="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype-p-500.png 500w, https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype-p-800.png 800w, https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype.png 818w" class="uui-logo_logotype-3"/>
         </a>
         <div class="uui-navbar08_container-2">
@@ -73,10 +73,10 @@
             </a>
             <nav role="navigation" class="uui-navbar08_menu-2 w-nav-menu">
                 <div class="uui-navbar08_menu-left-2">
-                    <a href="/" class="uui-navbar08_link-2 w-nav-link">Home</a>
+                    <a href="/" aria-current="page" class="uui-navbar08_link-2 w-nav-link w--current">Home</a>
                     <a href="/about" class="uui-navbar08_link-2 w-nav-link">About Us</a>
                     <a href="/services" class="uui-navbar08_link-2 w-nav-link">Our Services</a>
-                    <a href="/faqs" aria-current="page" class="uui-navbar08_link-2 w-nav-link w--current">FAQ&#x27;s</a>
+                    <a href="/faqs" class="uui-navbar08_link-2 w-nav-link">FAQ&#x27;s</a>
                     <a href="/contact-us" class="uui-navbar08_link-2 w-nav-link">Contact Us</a>
                 </div>
                 <div class="uui-navbar08_menu-right-2">
@@ -98,101 +98,329 @@
             </div>
         </div>
     </div>
-    <section>
-        <section class="section-46-copy">
-            <div data-w-id="672cbb9a-cdad-8d79-411c-a6343a275d6e" style="opacity:0" class="div-block-20"></div>
-            <h1 data-w-id="672cbb9a-cdad-8d79-411c-a6343a275d6f" style="opacity:0" class="about-us">FAQ&#x27;s</h1>
-            <h1 data-w-id="de0177cc-3701-a91b-5aeb-028831cf0660" style="opacity:0" class="heading-38">Frequently Asked Questions</h1>
-            <p data-w-id="9641f33e-5be1-ce03-994b-7fc539e4bc15" style="opacity:0" class="paragraph-4">At The Law Office of Angela Zinn, we understand that navigating issues related to family law can be complex and emotionally challenging. To help guide our clients through the legal process, we have compiled a list of frequently asked questions below.</p>
+    <section class="section-22">
+        <section>
+            <h2 data-w-id="b1894723-7728-8aaa-79d0-9a3b6f667619" style="opacity:0" class="heading-24">THE LAW OFFICE OF ANGELA ZINN &amp; HEATHER CUTLIP</h2>
+            <h1 data-w-id="1873aefa-d4f5-5d51-3913-74292e99c21f" style="opacity:0" class="heading-25">
+                Imperial County&#x27;s
+                <br/>
+                <em>Trusted</em>
+                 Law Group
+            </h1>
+            <p data-w-id="868b7151-2847-5d33-673a-4b459809ab8e" style="opacity:0" class="paragraph-10">When you choose us, you&#x27;re choosing a team with the expertise and dedication to protect your interests at every turn.</p>
+        </section>
+        <a data-w-id="d7c31502-a6b1-900f-1c2f-9d24e9f4e95d" style="opacity:0" href="/services" class="uui-button-3-copy w-inline-block">
+            <div class="text-block-12-copy">See All Services</div>
+        </a>
+    </section>
+    <section class="section-25">
+        <section class="uui-section_layout72">
+            <div class="uui-page-padding-4">
+                <div class="uui-container-large-4">
+                    <div class="uui-padding-vertical-xhuge-2">
+                        <div data-w-id="2a9e3ac8-fb5e-9d19-4849-027e4140e242" style="opacity:0" class="div-block-16"></div>
+                        <h1 data-w-id="21c6977c-2ae7-8a0d-30a2-2314c3ec16b4" style="opacity:0" class="heading-25-copy">Areas of Practice</h1>
+                        <p data-w-id="83d9b2e4-0851-4f08-0623-09e82de06ba4" style="opacity:0" class="paragraph-12">Navigating the intricacies of both family law and criminal defense, our firm provides steadfast representation and personalized solutions for our clients&#x27; legal matters.</p>
+                        <div data-w-id="14ddff88-bacd-5054-87af-8363ace23aed" style="opacity:0" class="w-layout-grid uui-layout72_component">
+                            <a id="w-node-d2cee684-3a47-cffb-5465-17b59339f513-220a9788" href="/services" class="link-block-10 w-inline-block">
+                                <div data-w-id="99296d70-c406-b603-d3e2-89e662ed8d58" class="uui-layout72_item">
+                                    <div class="div-block-14">
+                                        <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e3670113f80535d8ef01e_gavel%20(1).svg" loading="lazy" width="29" alt="Gavel"/>
+                                    </div>
+                                    <div class="uui-layout72_item-content">
+                                        <h2 class="uui-heading-xxsmall">Criminal Law</h2>
+                                        <div class="uui-space-xxsmall-2"></div>
+                                        <div class="uui-text-size-medium-2">Defending your rights is our mission. From misdemeanors to felonies, trust our experienced team to fight for you in the complex landscape of criminal law.</div>
+                                        <div class="div-block-24">
+                                            <div class="text-block-21">Learn more</div>
+                                            <div class="uui-button-icon-3 w-embed">
+                                                <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M4.6665 9.99984H16.3332M16.3332 9.99984L10.4998 4.1665M16.3332 9.99984L10.4998 15.8332" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a id="w-node-_31f385a2-76dc-2c17-d005-7254baa00093-220a9788" href="/services" class="link-block-12 w-inline-block">
+                                <div data-w-id="14ddff88-bacd-5054-87af-8363ace23aee" class="uui-layout72_item">
+                                    <div class="div-block-14">
+                                        <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664cf116498acefff72904d7_family.png" loading="lazy" width="29" alt="Family Law Icon"/>
+                                    </div>
+                                    <div class="uui-layout72_item-content">
+                                        <h2 class="uui-heading-xxsmall">Family Law</h2>
+                                        <div class="uui-space-xxsmall-2"></div>
+                                        <div class="uui-text-size-medium-2">Expert counsel for family matters. Trust us to navigate divorce, child custody, adoption, and more with care and precision. Your family&#x27;s well-being is our priority.</div>
+                                    </div>
+                                    <div class="div-block-24">
+                                        <div class="text-block-21">Learn more</div>
+                                        <div class="uui-button-icon-3 w-embed">
+                                            <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M4.6665 9.99984H16.3332M16.3332 9.99984L10.4998 4.1665M16.3332 9.99984L10.4998 15.8332" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                            <a id="w-node-_7a75d526-a578-dbb8-8126-d08c0bd207d8-220a9788" href="/services" class="link-block-11 w-inline-block">
+                                <div data-w-id="a0063424-a0a2-f400-470b-5fb154993050" class="uui-layout72_item">
+                                    <div class="div-block-14">
+                                        <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e362ceae96985e138a8ad_handshake.svg" loading="lazy" width="37" alt="handshake icon"/>
+                                    </div>
+                                    <div class="uui-layout72_item-content">
+                                        <h3 class="uui-heading-xxsmall">Mediation</h3>
+                                        <div class="uui-space-xxsmall-2"></div>
+                                        <div class="uui-text-size-medium-2">Resolving disputes peacefully. We facilitate constructive dialogue and mutual agreement, offering a collaborative approach to conflict resolution.</div>
+                                    </div>
+                                    <div class="div-block-24">
+                                        <div class="text-block-21">Learn more</div>
+                                        <div class="uui-button-icon-3 w-embed">
+                                            <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M4.6665 9.99984H16.3332M16.3332 9.99984L10.4998 4.1665M16.3332 9.99984L10.4998 15.8332" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
     </section>
-    <section class="section-55"></section>
-    <section class="section-15">
-        <div data-w-id="f14ed816-fc23-6a75-5f57-12353f72632b" style="opacity:0" class="w-layout-blockcontainer container-16 w-container">
-            <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div>
-                        <div class="text-block-6">How do I start a divorce?</div>
+    <section class="section-58"></section>
+    <section class="section-30">
+        <div data-w-id="25cbf97d-7f33-9cfb-fe93-858b3a3b1024" style="opacity:0" class="uui-heading-subheading">Why choose The Law Office of Angela Zinn &amp; Heather Cutlip?</div>
+        <h2 data-w-id="25cbf97d-7f33-9cfb-fe93-858b3a3b1026" style="opacity:0" class="heading-25-copy-copy">
+            We Will 
+            <em>Fight For You</em>
+        </h2>
+        <div data-w-id="25cbf97d-7f33-9cfb-fe93-858b3a3b1028" style="opacity:0" class="uui-text-size-large">
+            Don&#x27;t wait to get the help you need - contact us today to schedule a consultation and find out how we can assist you. We are here to fight for your rights and advocate for your interests. We will work tirelessly to ensure that your legal needs are met with professionalism, empathy, and exceptional representation.
+            <br/>
+        </div>
+        <div class="div-block-17">
+            <a data-w-id="a6392cf4-e713-1781-cab4-fe5358732ec4" style="opacity:0" href="/services" class="uui-button-3-we-will-fight w-inline-block">
+                <div class="text-block-12">Learn More</div>
+            </a>
+            <a data-w-id="f2cf2ff4-6ccc-7b9f-d761-4d59454f2235" style="opacity:0" href="/contact-us" class="uui-button-3-we-will-fight-copy w-inline-block">
+                <div class="text-block-12-copy">Contact Us Today</div>
+            </a>
+        </div>
+    </section>
+    <section class="uui-section_testimonial13">
+        <div class="uui-page-padding-6">
+            <div class="uui-container-large-4">
+                <div class="uui-padding-vertical-xhuge-4">
+                    <div class="uui-text-align-center-2">
+                        <div class="uui-max-width-large-2 align-center">
+                            <h2 data-w-id="71f3dc4f-f9a2-9098-23ff-ac4e78da9a33" style="opacity:0" class="heading-25-copy-copy-copy">Don’t just take our word for it</h2>
+                            <div data-w-id="71f3dc4f-f9a2-9098-23ff-ac4e78da9a36" style="opacity:0" class="uui-text-size-large-2">Hear from some of our satisfied clients.</div>
+                        </div>
                     </div>
-                </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">To start a divorce, you will usually need to file a petition with your local family court. This legal document typically outlines the grounds for the divorce, as well as any requests for child custody, support, and property division. You will typically need to serve your spouse with a copy of the petition, and they will have the opportunity to respond to the petition. It&#x27;s important to seek the guidance of an experienced family law attorney to ensure that your legal rights and interests are protected during the divorce process.</p>
-                </nav>
-            </div>
-            <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div class="text-block-6">How long does a divorce take?</div>
-                </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">The state of California imposes a six-month jurisdictional time period in all divorce cases. This means that you cannot officially be divorced at any point sooner than six months from the service of the Petition for Dissolution on the respondent. However, many cases will settle prior to the six-month period.</p>
-                </nav>
-            </div>
-            <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div class="text-block-6">
-                        I do not live in Imperial County, but I 
-                        <br/>
-                        have an open case in Imperial County, 
-                        <br/>
-                        where do I hire an attorney?
+                    <div data-w-id="71f3dc4f-f9a2-9098-23ff-ac4e78da9a38" style="opacity:0" class="uui-testimonial13_component">
+                        <div class="uui-testimonial13_content">
+                            <div class="uui-testimonial13_rating-wrapper">
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="uui-heading-xxsmall-2 text-weight-medium"> I have used their services many times with all great results. They are passionate about litigating your case and will always seek the client&#x27;s and your child&#x27;s best interest.</div>
+                        </div>
+                        <div class="uui-testimonial13_content">
+                            <div class="uui-testimonial13_rating-wrapper">
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="uui-heading-xxsmall-2 text-weight-medium">This was the first time I had ever been to court. Needless to say I was nervous, but I saw Angela had cases against many attorneys. All I have to say is I&#x27;m glad I was with her.</div>
+                        </div>
+                        <div class="uui-testimonial13_content">
+                            <div class="uui-testimonial13_rating-wrapper">
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                                <div class="uui-testimonial13_rating-icon w-embed">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_28_8746)">
+                                            <path d="M9.53834 1.60996C9.70914 1.19932 10.2909 1.19932 10.4617 1.60996L12.5278 6.57744C12.5998 6.75056 12.7626 6.86885 12.9495 6.88383L18.3123 7.31376C18.7556 7.3493 18.9354 7.90256 18.5976 8.19189L14.5117 11.6919C14.3693 11.8139 14.3071 12.0053 14.3506 12.1876L15.5989 17.4208C15.7021 17.8534 15.2315 18.1954 14.8519 17.9635L10.2606 15.1592C10.1006 15.0615 9.89938 15.0615 9.73937 15.1592L5.14806 17.9635C4.76851 18.1954 4.29788 17.8534 4.40108 17.4208L5.64939 12.1876C5.69289 12.0053 5.6307 11.8139 5.48831 11.6919L1.40241 8.19189C1.06464 7.90256 1.24441 7.3493 1.68773 7.31376L7.05054 6.88383C7.23744 6.86885 7.40024 6.75056 7.47225 6.57744L9.53834 1.60996Z" fill="currentColor"/>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="uui-heading-xxsmall-2 text-weight-medium">I highly recommend her and my child is living a happier life and healthy life thanks to this attorney. If I had to hire an attorney again or recommend an attorney, she would be the one.</div>
+                        </div>
                     </div>
+                    <section data-w-id="46eea529-4ff2-59d4-93ff-a0ba3224c5ce" style="opacity:0" class="section-33">
+                        <div class="w-row">
+                            <div class="column-27 w-col w-col-4 w-col-small-4 w-col-tiny-tiny-stack">
+                                <h1 class="heading-28">2,000+</h1>
+                                <h1 class="heading-29">satisfied clients</h1>
+                            </div>
+                            <div class="column-28 w-col w-col-4 w-col-small-4 w-col-tiny-tiny-stack">
+                                <h1 class="heading-28-copy">60+</h1>
+                                <h1 class="heading-29">combined years of experience</h1>
+                            </div>
+                            <div class="column-29 w-col w-col-4 w-col-small-4 w-col-tiny-tiny-stack">
+                                <h1 class="heading-28-copy">16+</h1>
+                                <h1 class="heading-29">
+                                    years in
+                                    <br/>
+                                    business
+                                </h1>
+                            </div>
+                        </div>
+                    </section>
                 </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">...</p>
-                </nav>
-            </div>
-            <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div class="text-block-6">
-                        What should I do if I&#x27;m afraid of my 
-                        <br/>
-                        spouse?
-                    </div>
-                </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">...</p>
-                </nav>
-            </div>
-            <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div class="text-block-6">How much does a consultation cost?</div>
-                </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">...</p>
-                </nav>
-            </div>
-            <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div class="text-block-6">Is mediation a good option for me?</div>
-                </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">...</p>
-                </nav>
-            </div>
-            <div data-hover="true" data-delay="0" class="dropdown-3 w-dropdown">
-                <div class="dropdown-toggle-4 w-dropdown-toggle">
-                    <div class="icon-3 w-icon-dropdown-toggle"></div>
-                    <div class="text-block-6">
-                        What is the difference between
-                        <br/>
-                         divorce and legal separation?
-                    </div>
-                </div>
-                <nav class="w-dropdown-list">
-                    <p class="faq-paragraph">There is one major difference between divorce and legal separation: A divorce terminates marital status and returns both parties to “single” status while a legal separation preserves the status of the parties as a married couple.Every issue adjudicated in a divorce is also adjudicated as part of a legal separation. Property is divided, debts are divided, child support and spousal support orders are made, and child custody orders are made as part of a legal separation. Legal separation is a good alternative for those couples who know they can no longer live together but are unsure as to whether or not reconciliation is a viable option ion the future. Once complete, a legal separation can easily be converted into a divorce down the road.</p>
-                </nav>
-            </div>
-            <div class="div-block-12">
-                <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/649ce98cbde1d143d5a7165a_protected%20icon.png" loading="lazy" width="198" alt="Legal Icon" class="image-14"/>
             </div>
         </div>
     </section>
+    <section class="section-29"></section>
+    <section class="section-31"></section>
+    <div class="uui-page-padding-copy">
+        <h1 data-w-id="02587c23-f69f-9344-719c-5b0642d0c202" style="opacity:0" class="heading-22">Working As A Team</h1>
+        <h1 data-w-id="02587c23-f69f-9344-719c-5b0642d0c204" style="opacity:0" class="heading-21">
+            Attorneys You Can 
+            <em>Trust</em>
+        </h1>
+        <div class="uui-container-large-copy">
+            <div class="uui-padding-vertical-xhuge">
+                <div class="w-layout-grid uui-layout35_component">
+                    <div class="uui-layout35_content">
+                        <div class="uui-layout35_image-wrapper">
+                            <section class="section-36"></section>
+                        </div>
+                        <h2 data-w-id="02587c23-f69f-9344-719c-5b0642d0c20c" style="opacity:0" class="uui-heading-small">Angela Zinn</h2>
+                        <div class="uui-space-xxsmall"></div>
+                        <div data-w-id="02587c23-f69f-9344-719c-5b0642d0c20f" style="opacity:0" class="uui-text-size-medium">
+                            Angela is a local attorney serving the citizens of Imperial County. She has over thirty years of experience practicing law. Her experiences with clients over the years have instilled in her a passion to tackle each case with compassion and vigor. 
+                            <br/>
+                        </div>
+                        <div class="uui-space-small"></div>
+                        <div data-w-id="02587c23-f69f-9344-719c-5b0642d0c213" style="opacity:0" class="uui-button-row">
+                            <a data-w-id="02587c23-f69f-9344-719c-5b0642d0c214" href="#" class="uui-button-link w-inline-block">
+                                <div class="text-block-10">Learn more</div>
+                                <div class="uui-button-icon w-embed">
+                                    <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M4.6665 9.99984H16.3332M16.3332 9.99984L10.4998 4.1665M16.3332 9.99984L10.4998 15.8332" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="uui-layout35_content">
+                        <section class="section-52">
+                            <section class="section-37-copy"></section>
+                        </section>
+                        <div class="uui-layout35_image-wrapper"></div>
+                        <h3 data-w-id="02587c23-f69f-9344-719c-5b0642d0c21b" style="opacity:0" class="uui-heading-small">Heather Cutlip</h3>
+                        <div class="uui-space-xxsmall"></div>
+                        <div data-w-id="02587c23-f69f-9344-719c-5b0642d0c21e" style="opacity:0" class="uui-text-size-medium">With many years experience in criminal law, Heather is a seasoned advocate known for her unwavering commitment to justice and track record of success in defending clients against criminal charges.</div>
+                        <div class="uui-space-small"></div>
+                        <div data-w-id="02587c23-f69f-9344-719c-5b0642d0c221" style="opacity:0" class="uui-button-row">
+                            <a data-w-id="02587c23-f69f-9344-719c-5b0642d0c222" href="#" class="uui-button-link w-inline-block">
+                                <div class="text-block-11">Learn more</div>
+                                <div class="uui-button-icon w-embed">
+                                    <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M4.6665 9.99984H16.3332M16.3332 9.99984L10.4998 4.1665M16.3332 9.99984L10.4998 15.8332" stroke="CurrentColor" stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <section class="section-34">
         <section class="section-35">
             <h1 data-w-id="399a267e-5409-358a-601e-97666836ec3f" class="heading-30">
@@ -205,38 +433,42 @@
             </a>
         </section>
     </section>
-    <div class="uui-page-padding-9">
-        <div class="uui-container-large-4">
-            <div class="uui-padding-vertical-xlarge-2">
-                <div class="w-layout-grid uui-footer04_top-wrapper">
-                    <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype.png" loading="lazy" id="w-node-_173ba7e0-d690-19e0-2a17-ea0daf5b68e1-af5b68dd" sizes="100vw" alt="" srcset="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype-p-500.png 500w, https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype-p-800.png 800w, https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype.png 818w" class="image-25"/>
-                    <div class="w-layout-grid uui-footer04_link-list">
-                        <a href="#" class="uui-footer04_link w-inline-block">
-                            <div class="text-block-14">Home</div>
-                        </a>
-                        <a href="#" class="uui-footer04_link w-inline-block">
-                            <div class="text-block-15">About Us</div>
-                        </a>
-                        <a href="#" class="uui-footer04_link w-inline-block">
-                            <div class="text-block-16">Our Services</div>
-                        </a>
-                        <a href="#" class="uui-footer04_link w-inline-block">
-                            <div class="text-block-17">FAQ&#x27;s</div>
-                        </a>
-                        <a href="#" class="uui-footer04_link w-inline-block">
-                            <div class="text-block-18">Contact Us</div>
-                        </a>
-                        <a href="#" class="uui-footer04_link w-inline-block">
-                            <div class="text-block-19">Privacy</div>
-                        </a>
+    <footer class="uui-footer07_component">
+        <footer class="uui-footer04_component">
+            <div class="uui-page-padding-9">
+                <div class="uui-container-large-4">
+                    <div class="uui-padding-vertical-xlarge-2">
+                        <div class="w-layout-grid uui-footer04_top-wrapper">
+                            <img src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype.png" loading="lazy" id="w-node-_173ba7e0-d690-19e0-2a17-ea0daf5b68e1-af5b68dd" sizes="100vw" alt="" srcset="https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype-p-500.png 500w, https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype-p-800.png 800w, https://assets-global.website-files.com/649362999143e2cad3ff7b95/664e040b6b174ed6082f7985_white_logotype.png 818w" class="image-25"/>
+                            <div class="w-layout-grid uui-footer04_link-list">
+                                <a href="#" class="uui-footer04_link w-inline-block">
+                                    <div class="text-block-14">Home</div>
+                                </a>
+                                <a href="#" class="uui-footer04_link w-inline-block">
+                                    <div class="text-block-15">About Us</div>
+                                </a>
+                                <a href="#" class="uui-footer04_link w-inline-block">
+                                    <div class="text-block-16">Our Services</div>
+                                </a>
+                                <a href="#" class="uui-footer04_link w-inline-block">
+                                    <div class="text-block-17">FAQ&#x27;s</div>
+                                </a>
+                                <a href="#" class="uui-footer04_link w-inline-block">
+                                    <div class="text-block-18">Contact Us</div>
+                                </a>
+                                <a href="#" class="uui-footer04_link w-inline-block">
+                                    <div class="text-block-19">Privacy</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="uui-footer04_bottom-wrapper">
+                            <div class="uui-text-size-small-4 text-color-gray500">© 2024 Website by FridayDesign</div>
+                        </div>
                     </div>
                 </div>
-                <div class="uui-footer04_bottom-wrapper">
-                    <div class="uui-text-size-small-4 text-color-gray500">© 2024 Website by FridayDesign</div>
-                </div>
             </div>
-        </div>
-    </div>
+        </footer>
+    </footer>
     <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=649362999143e2cad3ff7b95" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
     <script src="https://assets-global.website-files.com/649362999143e2cad3ff7b95/js/webflow.89d5f525e.js" type="text/javascript"></script>
 </body>
